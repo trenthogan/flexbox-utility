@@ -4,7 +4,11 @@ Flexbox utility classes ...
 
 To install with bower run:
 ```
-bower info flexbox-utility
+bower install flexbox-utility --save
+```
+For Development to start the build process run
+```
+gulp
 ```
 
 Add Display Flex To Item
