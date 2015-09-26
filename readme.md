@@ -6,7 +6,11 @@ To install with bower run:
 ```
 bower install flexbox-utility --save
 ```
-For Development to start the build process run
+For Development run
+```
+npm install
+```
+Then to start the build process run
 ```
 gulp
 ```
