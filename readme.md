@@ -2,6 +2,11 @@
 
 Flexbox utility classes ...
 
+To install with bower run:
+```
+bower info flexbox-utility
+```
+
 Add Display Flex To Item
 ```css
 .flex {
