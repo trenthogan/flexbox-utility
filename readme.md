@@ -11,6 +11,8 @@ For Development to start the build process run
 gulp
 ```
 
+**UTILITY CLASSES**
+
 Add Display Flex To Item
 ```css
 .flex {
